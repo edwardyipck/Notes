@@ -1,2 +1,2 @@
 # Notes
-Compact Python notes I created for various topics
+Personal Python notes
